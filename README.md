@@ -6,23 +6,8 @@ Simple and functional implementation of the general purpose processing unit risc
 
 ## The set of instruction already implemented
 
-(opcode ==  5'b00000)   //LW
- (opcode ==  5'b01000)  //SW
- (opcode ==  5'b11000  && func3 ==  3'b000)   **BEQ**
-else  if (opcode ==  5'b11000  && func3 ==  3'b001)   **BNE**
-else  if (opcode ==  5'b01100  && func3 ==  3'b100)   **XOR**
-else  if (opcode ==  5'b00100  && func3 ==  3'b100)   **XORI**
-else  if (opcode ==  5'b00100  && func3 ==  3'b110)   **ORI**
-else  if (opcode ==  5'b00100  && func3 ==  3'b111)   **ANDI**
-else  if (opcode ==  5'b01100  && func3 ==  3'b101)   **SRL**
-begin  //**ADD**
-7'b0100000) begin  //**SUB**
-else  if (opcode ==  5'b11011) begin  //**JAL**
-else  begin  // **ADDI**
-
-
-| Instruction  |   |   |   |   |
-|----------|---|---|---|---|
+| Instruction  | Opcode | func3  |   |   |
+|----------|-5'b11000--|---|---|---|
 | **SW**   |   |   |   |   |
 | **BEQ**  |   |   |   |   |
 | **BNE**  |   |   |   |   |
