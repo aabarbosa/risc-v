@@ -1,6 +1,6 @@
 # Project
 
-Simple and functional implementation of the general porpose processing unit risc-v (reduced ISA processor).
+Simple and functional implementation of the general purpose processing unit risc-v (reduced ISA processor).
 
   *This project is for learning purposes only.*
 
@@ -21,8 +21,21 @@ else  if (opcode ==  5'b11011) begin  //**JAL**
 else  begin  // **ADDI**
 
 
-  
-    
+| Instruction  |   |   |   |   |
+|----------|---|---|---|---|
+| **SW**   |   |   |   |   |
+| **BEQ**  |   |   |   |   |
+| **BNE**  |   |   |   |   |
+| **XOR**  |   |   |   |   |
+| **XORI** |   |   |   |   |
+| **ORI**  |   |   |   |   |
+| **ANDI** |   |   |   |   |
+| **SRL**  |   |   |   |   |
+| **ADD**  |   |   |   |   |
+| **SUB**  |   |   |   |   |
+| **JAL**  |   |   |   |   |
+| **ADDI** |   |   |   |   |
+| **LW**   |   |   |   |   |
 
 ## Examples
 
