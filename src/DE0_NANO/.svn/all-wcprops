@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/confs/!svn/ver/457/labarc/client/labarc/TOP
+END
+memo.mif
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/confs/!svn/ver/407/labarc/client/labarc/TOP/memo.mif
+END
+DE0_Nano.qpf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/confs/!svn/ver/364/labarc/client/labarc/TOP/DE0_Nano.qpf
+END
+DE0_Nano.sv
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/confs/!svn/ver/365/labarc/client/labarc/TOP/DE0_Nano.sv
+END
+LCDhex_inst.sv
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/confs/!svn/ver/389/labarc/client/labarc/TOP/LCDhex_inst.sv
+END
+DE0_Nano.qsf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/confs/!svn/ver/386/labarc/client/labarc/TOP/DE0_Nano.qsf
+END
+DE0_Nano.sdc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/confs/!svn/ver/364/labarc/client/labarc/TOP/DE0_Nano.sdc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/confs/!svn/ver/366/labarc/client/labarc/TOP/Makefile
+END
+inst.101
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/confs/!svn/ver/347/labarc/client/labarc/TOP/inst.101
+END
+inst.s
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/confs/!svn/ver/457/labarc/client/labarc/TOP/inst.s
+END

@@ -1,0 +1,20 @@
+; para um comentario inicie a linha com ;
+
+; campos da instrução tipo I
+;     imm        rs1  funct3  rd    opcode
+1000 0010 1111  00000  000  10000  100 0000
+1001 0100 0000  00100  000  00100  000 0111
+1010 0010 0000  00001  001  00101  000 0000
+1011 0001 0000  01000  000  00101  010 1000
+1100 0100 0000  00100  000  00100  000 0000
+1101 0100 0100  01000  0001 10010  001 1111
+
+; campos da instrução tipo R
+; funct7   rs2    rs1  funct3  rd    opcode
+0000 000  00000  00000  000  00000  000 0000
+
+; campos da instrução tipo SB
+;  imm     rs2    rs1  funct3 imm    opcode
+0000 000  00000  00000  000  00000  000 0000
+
+

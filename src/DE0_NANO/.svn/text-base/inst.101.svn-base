@@ -1,0 +1,10 @@
+; para um comentario inicie a linha com ;
+
+; campos da instrução tipo I
+;  op     rs    rt          imm
+ 000000 00000 00000  00000000 00000000
+
+; campos da instrução tipo R
+;  op     rs    rt    rd  shamt  funct
+ 000000 00000 00000 00000 00000 000000
+

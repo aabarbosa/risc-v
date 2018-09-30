@@ -1,0 +1,14 @@
+/* Comentário igual a C
+*/
+
+.section .text
+.globl _start
+_start:
+	addi	s0,sp,16
+	add	a3,a2,a1
+	mv	a0,a5
+pula:
+	ld	a1,8(sp)
+        beq     a2,a3,pula
+	mv	a0,a5
+
