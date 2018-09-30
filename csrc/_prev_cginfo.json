@@ -1,0 +1,155 @@
+{
+    "LVLData": [
+        "SIM"
+    ],
+    "MlibObjs": {},
+    "PrevCompiledModules": {
+        "zoi": {
+            "N4xcc_d": {
+                "archive": "archive.21/_prev_archive_1.a",
+                "checksum": 4294967295,
+                "bytes": 8961,
+                "mod": "zoi",
+                "mode": 4,
+                "out": "N4xcc_d.o"
+            }
+        },
+        "vJTAG_interface": {
+            "jqfqm_d": {
+                "archive": "archive.21/_prev_archive_1.a",
+                "checksum": 4294967295,
+                "bytes": 6359,
+                "mod": "vJTAG_interface",
+                "mode": 4,
+                "out": "jqfqm_d.o"
+            }
+        },
+        "...MASTER...": {
+            "amcQw_d": {
+                "checksum": 4294967295,
+                "bytes": 7287,
+                "mod": "...MASTER...",
+                "out": "objs/amcQw_d.o",
+                "mode": 4
+            }
+        },
+        "std": {
+            "reYIK_d": {
+                "archive": "archive.21/_prev_archive_1.a",
+                "checksum": 4294967295,
+                "bytes": 33364,
+                "mod": "std",
+                "mode": 4,
+                "out": "reYIK_d.o"
+            }
+        },
+        "top": {
+            "Emx8S_d": {
+                "archive": "archive.21/_17550_archive_1.a",
+                "checksum": 4294967295,
+                "bytes": 77841,
+                "mod": "top",
+                "out": "Emx8S_d.o",
+                "mode": 4
+            }
+        }
+    },
+    "CurCompileUdps": {},
+    "PEModules": [],
+    "NameTable": {
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ],
+        "std": [
+            "std",
+            "reYIK",
+            "module"
+        ],
+        "zoi": [
+            "zoi",
+            "N4xcc",
+            "module"
+        ],
+        "top": [
+            "top",
+            "Emx8S",
+            "module"
+        ],
+        "vJTAG_interface": [
+            "vJTAG_interface",
+            "jqfqm",
+            "module"
+        ]
+    },
+    "CompileStrategy": "fullobj",
+    "stat": {
+        "ru_self_cgstart": {
+            "ru_nvcsw": 26,
+            "ru_utime_sec": 0.042694999999999997,
+            "ru_majflt": 0,
+            "ru_stime_sec": 0.013584000000000001,
+            "ru_maxrss_kb": 56152,
+            "ru_minflt": 13087,
+            "ru_nivcsw": 122
+        },
+        "ru_childs_cgstart": {
+            "ru_nvcsw": 0,
+            "ru_utime_sec": 0.0,
+            "ru_majflt": 0,
+            "ru_stime_sec": 0.0,
+            "ru_maxrss_kb": 0,
+            "ru_minflt": 0,
+            "ru_nivcsw": 0
+        },
+        "mopSpeed": 207802.87474332645,
+        "ru_childs_end": {
+            "ru_nvcsw": 0,
+            "ru_utime_sec": 0.0,
+            "ru_majflt": 0,
+            "ru_stime_sec": 0.0,
+            "ru_maxrss_kb": 0,
+            "ru_minflt": 0,
+            "ru_nivcsw": 0
+        },
+        "quadSpeed": 77580.73548627962,
+        "nMops": 5566,
+        "ru_self_end": {
+            "ru_nvcsw": 46,
+            "ru_utime_sec": 0.06948,
+            "ru_majflt": 0,
+            "ru_stime_sec": 0.019571000000000002,
+            "ru_maxrss_kb": 64196,
+            "ru_minflt": 15606,
+            "ru_nivcsw": 157
+        },
+        "totalObjSize": 175427,
+        "nQuads": 2078,
+        "mop/quad": 2.6785370548604428,
+        "Frontend(%)": 61.449337938975241,
+        "outputSizePerQuad": 84.0,
+        "CodeGen(%)": 38.550662061024767
+    },
+    "SIMBData": {
+        "out": "amcQwB.o",
+        "bytes": 90299
+    },
+    "CurCompileModules": [
+        "...MASTER...",
+        "top"
+    ],
+    "CompileProcesses": [
+        "cgproc.17550.json"
+    ],
+    "Misc": {
+        "csrc": "csrc",
+        "cwd": "/home/pem/Downloads/RISC-V",
+        "csrc_abs": "/home/pem/Downloads/RISC-V/csrc",
+        "default_output_dir": "csrc",
+        "daidir": "simv.daidir",
+        "daidir_abs": "/home/pem/Downloads/RISC-V/simv.daidir",
+        "archive_dir": "archive.21"
+    },
+    "CompileStatus": "Successful"
+}

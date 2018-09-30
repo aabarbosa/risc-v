@@ -1,0 +1,42 @@
+{
+    "ObjArchives": [
+        {
+            "objects": [
+                [
+                    "Emx8S_d.o",
+                    78101
+                ]
+            ],
+            "archive": "archive.22/_18040_archive_1.a",
+            "size": 78101
+        }
+    ],
+    "Modules": {
+        "std": {},
+        "...MASTER...": {},
+        "top": {
+            "Compiled": "Yes",
+            "Compiled Times": 5
+        },
+        "zoi": {},
+        "vJTAG_interface": {}
+    },
+    "CompUnits": {
+        "amcQw_d": {
+            "mod": "...MASTER...",
+            "checksum": 4294967295,
+            "bytes": 7287,
+            "out": "objs/amcQw_d.o",
+            "mode": 4
+        },
+        "Emx8S_d": {
+            "mod": "top",
+            "checksum": 4294967295,
+            "bytes": 78101,
+            "out": "Emx8S_d.o",
+            "mode": 4,
+            "archive": "archive.22/_18040_archive_1.a"
+        }
+    },
+    "reusePaths": {}
+}

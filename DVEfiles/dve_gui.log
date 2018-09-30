@@ -1,0 +1,39 @@
+Chronologic VCS simulator copyright 1991-2015
+Contains Synopsys proprietary information.
+Compiler version K-2015.09-SP1-1_Full64; Runtime version K-2015.09-SP1-1_Full64;  Sep 24 11:59 2016
+VCD+ Writer K-2015.09-SP1-1_Full64 Copyright (c) 1991-2015 by Synopsys Inc.
+The file '/home/pem/Downloads/RISC-V/inter.vpd' was opened successfully.
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 0
+CPU Time:      0.110 seconds;       Data structure size:   0.0Mb
+Sat Sep 24 12:00:12 2016
+Releasing License for VCSRuntime_Net at Sat Sep 24 11:59:23
+Attempting to Re-Acquire License for VCSRuntime_Net at Sat Sep 24 12:01:32
+Re-Acquired License for VCSRuntime_Net at Sat Sep 24 12:01:32, continuing....
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 30
+CPU Time:      0.260 seconds;       Data structure size:   0.0Mb
+Sat Sep 24 12:01:47 2016
+The file '/home/pem/Downloads/RISC-V/vcdplus.vpd' was opened successfully.
+ok
+
+The file '/home/pem/Downloads/RISC-V/vcdplus.vpd' was opened successfully.
+Error: [DVAP037] 
+Errors while sourcing the file '/home/pem/Downloads/RISC-V/DVEfiles/session.tcl':
+
+ Line 86: [DVSG007] 
+Signal ' "top.cpu.z.espera" "top.cpu.z.lw" "top.cpu.N"' cannot be found.
+ Line 89: Specified signals (V1:top.cpu.N) not found.
+ Line 90: Specified signals (V1:top.cpu.N) not found..
+The file '/home/pem/Downloads/RISC-V/vcdplus.vpd' was opened successfully.
+ok
+
+ok
+
+The file '/home/pem/Downloads/RISC-V/vcdplus.vpd' was opened successfully.
+ok
+
+ok
+
+ok
+

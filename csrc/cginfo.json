@@ -1,0 +1,155 @@
+{
+    "MlibObjs": {},
+    "CurCompileModules": [
+        "...MASTER...",
+        "top"
+    ],
+    "PrevCompiledModules": {
+        "top": {
+            "Emx8S_d": {
+                "checksum": 4294967295,
+                "out": "Emx8S_d.o",
+                "bytes": 77841,
+                "mod": "top",
+                "mode": 4,
+                "archive": "archive.22/_18040_archive_1.a"
+            }
+        },
+        "zoi": {
+            "N4xcc_d": {
+                "out": "N4xcc_d.o",
+                "checksum": 4294967295,
+                "bytes": 8961,
+                "mod": "zoi",
+                "mode": 4,
+                "archive": "archive.22/_prev_archive_1.a"
+            }
+        },
+        "vJTAG_interface": {
+            "jqfqm_d": {
+                "out": "jqfqm_d.o",
+                "checksum": 4294967295,
+                "bytes": 6359,
+                "mod": "vJTAG_interface",
+                "mode": 4,
+                "archive": "archive.22/_prev_archive_1.a"
+            }
+        },
+        "...MASTER...": {
+            "amcQw_d": {
+                "checksum": 4294967295,
+                "out": "objs/amcQw_d.o",
+                "bytes": 7287,
+                "mod": "...MASTER...",
+                "mode": 4
+            }
+        },
+        "std": {
+            "reYIK_d": {
+                "out": "reYIK_d.o",
+                "checksum": 4294967295,
+                "bytes": 33364,
+                "mod": "std",
+                "mode": 4,
+                "archive": "archive.22/_prev_archive_1.a"
+            }
+        }
+    },
+    "LVLData": [
+        "SIM"
+    ],
+    "SIMBData": {
+        "bytes": 90299,
+        "out": "amcQwB.o"
+    },
+    "Misc": {
+        "cwd": "/home/pem/Downloads/RISC-V",
+        "csrc": "csrc",
+        "csrc_abs": "/home/pem/Downloads/RISC-V/csrc",
+        "daidir": "simv.daidir",
+        "archive_dir": "archive.22",
+        "daidir_abs": "/home/pem/Downloads/RISC-V/simv.daidir",
+        "default_output_dir": "csrc"
+    },
+    "NameTable": {
+        "...MASTER...": [
+            "SIM",
+            "amcQw",
+            "module"
+        ],
+        "std": [
+            "std",
+            "reYIK",
+            "module"
+        ],
+        "top": [
+            "top",
+            "Emx8S",
+            "module"
+        ],
+        "zoi": [
+            "zoi",
+            "N4xcc",
+            "module"
+        ],
+        "vJTAG_interface": [
+            "vJTAG_interface",
+            "jqfqm",
+            "module"
+        ]
+    },
+    "CompileStatus": "Successful",
+    "CompileStrategy": "fullobj",
+    "CurCompileUdps": {},
+    "stat": {
+        "ru_childs_cgstart": {
+            "ru_utime_sec": 0.0,
+            "ru_stime_sec": 0.0,
+            "ru_majflt": 0,
+            "ru_maxrss_kb": 0,
+            "ru_nivcsw": 0,
+            "ru_minflt": 0,
+            "ru_nvcsw": 0
+        },
+        "ru_self_end": {
+            "ru_utime_sec": 0.067835000000000006,
+            "ru_stime_sec": 0.020948999999999999,
+            "ru_majflt": 0,
+            "ru_maxrss_kb": 64196,
+            "ru_nivcsw": 159,
+            "ru_minflt": 15605,
+            "ru_nvcsw": 47
+        },
+        "ru_self_cgstart": {
+            "ru_utime_sec": 0.038786000000000001,
+            "ru_stime_sec": 0.016906999999999998,
+            "ru_majflt": 0,
+            "ru_maxrss_kb": 56152,
+            "ru_nivcsw": 125,
+            "ru_minflt": 13086,
+            "ru_nvcsw": 27
+        },
+        "nMops": 5578,
+        "totalObjSize": 175687,
+        "ru_childs_end": {
+            "ru_utime_sec": 0.0,
+            "ru_stime_sec": 0.0,
+            "ru_majflt": 0,
+            "ru_maxrss_kb": 0,
+            "ru_nivcsw": 0,
+            "ru_minflt": 0,
+            "ru_nvcsw": 0
+        },
+        "nQuads": 2084,
+        "mopSpeed": 192020.37935901404,
+        "quadSpeed": 71740.85166442905,
+        "mop/quad": 2.6765834932821497,
+        "outputSizePerQuad": 84.0,
+        "Frontend(%)": 57.176973538733691,
+        "CodeGen(%)": 42.823026461266309
+    },
+    "PEModules": [],
+    "CompileProcesses": [
+        "cgproc.18040.json"
+    ]
+}
